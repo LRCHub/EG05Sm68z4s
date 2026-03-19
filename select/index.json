@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ミライどんなだろう",
+  "base_artist": "Mitchie M",
+  "createdAt": "2026-03-19T06:59:38.897506Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ミライどんなだろう (feat. 初音ミク)",
+      "artist": "Mitchie M",
+      "has_synced": false,
+      "path": "select/pl_01_ミライどんなだろう_(feat._初音ミク)_Mitchie_M.txt"
+    }
+  ]
+}
